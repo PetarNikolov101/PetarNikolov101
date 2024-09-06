@@ -1,3 +1,3 @@
-- Hi, I’m @PetarNikolov101
+- Hi, I’m Petar!
 - I’m interested in full stack development on websites, as well as game design and development.
 - Reach me at: petarnikolov101@gmail.com
