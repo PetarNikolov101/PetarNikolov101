@@ -1,3 +1,4 @@
 - Hi, I’m Petar!
-- I’m interested in full stack development on websites, as well as game design and development.
+- I work as an automation engineer.
+- I also make games in Unity!
 - Reach me at: petarnikolov101@gmail.com
