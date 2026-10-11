@@ -1,4 +1,4 @@
 - Hi, I’m Petar!
-- I work as an automation engineer.
-- I also make games in Unity!
+- I work with networks and automation.
+- I also make games!
 - Reach me at: petarnikolov101@gmail.com
